@@ -52,5 +52,10 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  // gh-pagesで必要
+  router:{
+    base:'/3sdd.github.io/'
   }
 }
