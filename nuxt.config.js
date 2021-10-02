@@ -56,6 +56,6 @@ export default {
 
   // gh-pagesで必要
   router:{
-    base:'/3sdd.github.io/'
+    base:'/test-nuxt-app/'
   }
 }
