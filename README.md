@@ -1,5 +1,7 @@
 # test-nuxt-app
 
+url: <https://3sdd.github.io/test-nuxt-app/>
+
 ## Build Setup
 
 ```bash
