@@ -1,0 +1,10 @@
+<template>
+    <div>
+        <h1>aaab</h1>
+        <main>
+            <p>
+                bbbaa
+            </p>
+        </main>
+    </div>
+</template>
